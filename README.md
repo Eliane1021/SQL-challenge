@@ -1,12 +1,17 @@
 # SQL-challenge
 Instructions
+
+
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
 Data Modeling
+
 Inspected the CSVs and sketched out an ERD of the tables using QuickDBD.
 
 
 Data Analysis
+
+
 List the employee number, last name, first name, sex, and salary of each employee.
 
 List the first name, last name, and hire date for the employees who were hired in 1986.
