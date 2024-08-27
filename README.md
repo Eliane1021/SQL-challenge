@@ -7,7 +7,7 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 Data Modeling
 
 Inspected the CSVs and sketched out an ERD of the tables using QuickDBD.
-
+![ERD](https://github.com/user-attachments/assets/ba6bb253-972b-4f7b-8959-7b08741730e3)
 
 Data Analysis
 
